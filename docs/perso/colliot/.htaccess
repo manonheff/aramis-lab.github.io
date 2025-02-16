@@ -1,2 +1,2 @@
 RewriteEngine on
-RewriteRule ^(.*)$ https://oliviercolliot.github.io/$1 [R=301,L]
+RewriteRule ^(.*)$ https://oliviercolliot.github.io/$1
