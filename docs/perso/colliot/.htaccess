@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^mydossier/(.*)$ https://oliviercolliot.github.io/$1 [R=301,L]
